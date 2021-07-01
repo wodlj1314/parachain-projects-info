@@ -22,37 +22,37 @@ Welcome to pr to update your `project information`.
 
 **Original data of the signature - `project information`:**
 
-ParaID: '0',
+ParaID: '2001',
 
-Project Name: 'text',
+Project Name: 'Bifrost',
 
-Description (en): 'text',
+Description (en): 'Bifrost is the Polkadot Ecological DeFi basic protocol. It is committed to becoming an infrastructure for pledged assets to provide liquidity. Bifrost launched derivatives vToken for Staking and Polkadot Parachain Slot (Crowdloan). It has obtained $2.15M in fund-raising from NGC, SNZ, DFG, CMS and other institutions and Web3 Foundation Grant. It is also a member of Substrate Builders Program and Web3 Bootcamp.',
 
-Description (zh): 'text',
+Description (zh): 'Bifrost（彩虹桥）是波卡生态 DeFi 基础协议，致力成为质押资产提供流动性的基础设施，目前推出面向 Staking 和波卡平行链卡槽（Crowdloan）的衍生品 vToken。目前已获得 NGC、SNZ、DFG、CMS 等机构数百万美金融资和 Web3 基金会 Grant，同时也是 Substrate Builders Program、Web3 Bootcamp 成员。',
 
-Parachain Crowdloans Allocation (en): 'text or link',
+Parachain Crowdloans Allocation (en): 'https://medium.com/bifrost-finance/bifrost-kusama-auction-is-now-officially-opened-7e3b555ba212',
 
-Parachain Crowdloans Allocation (zh): 'text or link',
+Parachain Crowdloans Allocation (zh): 'https://medium.com/bifrost-finance/bifrost-kusama-auction-is-now-officially-opened-7e3b555ba212',
 
-Auction Reward & Reward Vesting Schedule (en): 'text or link',
+Auction Reward & Reward Vesting Schedule (en): 'https://bifrost-finance.medium.com/reward-climbs-to-200-bifrost-launches-parachain-auction-sprint-program-2326b3b314c5',
 
-Auction Reward & Reward Vesting Schedule (zh): 'text or link',
+Auction Reward & Reward Vesting Schedule (zh): 'https://bifrost-finance.medium.com/reward-climbs-to-200-bifrost-launches-parachain-auction-sprint-program-2326b3b314c5',
 
-Financing Information (en): 'text or link',
+Financing Information (en): 'https://wiki.bifrost.finance/publicity/token',
 
-Financing Information (zh): 'text or link',
+Financing Information (zh): 'https://wiki.bifrost.finance/v/zh/publicity/token',
 
-Website Link: 'link',
+Website Link: 'https://bifrost.finance/',
 
-Twitter Link: 'link',
+Twitter Link: 'https://twitter.com/bifrost_finance',
 
-Telegram Link: 'link',
+Telegram Link: 'https://t.me/bifrost_finance',
 
-Discord Link: 'link',
+Discord Link: 'https://discord.gg/8DRBw2h5X4',
 
-Medium Link: 'link',
+Medium Link: 'https://medium.com/@bifrost_finance',
 
-Github Link: 'link'
+Github Link: 'https://github.com/bifrost-finance'
        
 ---------------
 
